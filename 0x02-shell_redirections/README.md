@@ -1,3 +1,3 @@
 #!/bin/bash
-working with shell, I/O Redirections and Filters
+shell I/O ,Redirection and filters
 
